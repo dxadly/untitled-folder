@@ -76,7 +76,7 @@ scene.add( light2 );
 
 var loader = new THREE.GLTFLoader();
 loader.crossOrigin = true;
-loader.load( '/Users/davidadly/github/untitled-folder/geo/vial-fix2.glb', function ( data ) {
+loader.load( 'geo/vial-fix2.glb', function ( data ) {
 
 
     var object = data.scene;
