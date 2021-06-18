@@ -5,7 +5,7 @@ import { DRACOLoader } from "https://cdn.skypack.dev/three/examples/jsm/loaders/
 
 import { OrbitControls } from "https://cdn.skypack.dev/three/examples/jsm/controls/OrbitControls.js";
 
-import store from "./store.js";
+import store from "/Users/davidadly/github/untitled-folder/store.js";
 
 const backgroundColor = 0x000000;
 
